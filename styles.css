@@ -1,0 +1,87 @@
+
+#wisdom-container { 
+  
+  width: 1200px;
+  height: 40px;
+  display: block;
+  background: transparent;
+  margin: 0 auto; 
+  padding-bottom: 10%;
+  font-family:'NHaasGroteskDSW01-75Bd', Arial, sans-serif;     
+  font-size: 32pt;
+  font-weight: 800;
+  letter-spacing: -0.05em; 
+  padding-bottom: 10%;
+  text-align: center;
+  padding-top: 6%;
+  margin-bottom:8%;
+}
+
+h1 { text-align: center;
+      font-size: 38pt;
+        font-family:'NHaasGroteskDSW01-75Bd', Arial, sans-serif;   
+        color: #f84342;
+
+}
+body {
+  
+  color: black;
+     line-height: 1.5;
+     font-weight: 400;
+     text-align: left;
+    height: 100%;
+   
+
+  
+}
+
+.advice-button {
+  color: orange;
+  text-align: center;
+  font-size: 18pt;
+  font-weight: 800;
+  font-family:'NHaasGroteskDSW01-75Bd', Arial, sans-serif; 
+  letter-spacing: -0.01em;
+  word-spacing: -0.02em;
+  color: #f84342;
+  cursor: pointer;
+  
+  
+}
+
+html{cursor: pointer;
+
+    height: 100%;
+
+} 
+
+.credit a { color: #f84342;
+            
+} 
+
+.credit p {
+  
+  text-align: center;
+  font-size: 13pt;
+  font-family: Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  
+}
+
+.credit {
+  
+  margin-left: 0%;
+}
+
+
+
+ 
+    
+
+ /* html {
+    
+    background: url('space.jpeg') no-repeat center center fixed;
+    background-size: cover;
+  } */
+
