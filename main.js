@@ -9,7 +9,7 @@ target = $( '#wisdom-container' )[0];
     i = 0;
     messages = [
       
-        '<div class="animated fadeIn"> Fucking Schedule Tasks Like College Classes. </div>',
+        '<div class="animated fadeInUp"> Fucking Schedule Tasks Like College Classes. </div>',
         '<div class="animated fadeIn"> Fucking Delete the Task. Do not Reschedule It.  </div>', 
         '<div class="animated fadeIn"> Avoid Fucking Distractions.  </div>',
         '<div class="animated fadeIn"> Never Ever Answer the Phone Unless You Are Expecting The Call.  </div>',
